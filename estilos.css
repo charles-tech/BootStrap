@@ -1,0 +1,17 @@
+footer {
+  background-color: black;
+  color: white;
+  height: 50px;
+  paddind:10 px;
+}
+
+footer p{
+  text-align: center;
+}
+.titulosDesdinos{
+  margin-top: 20;
+  text-align: center;
+}
+.card{
+  margin-bottom: 15px;
+}
